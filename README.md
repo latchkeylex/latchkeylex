@@ -1,10 +1,9 @@
-Alexander from New York. Web Dev, blockchain, smart contracts. 
+### Hi, I'm Alexander from NYC
 
-Here to learn, teach, and build. 🖖
+## Front end, smart contract, and blockchain developer
 
+# Here to learn, help, and build
 
-
-<!---
-latchkeylex/latchkeylex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me:
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
