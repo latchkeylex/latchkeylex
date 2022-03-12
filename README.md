@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alexander from NYC!
+## Hi 👋, I'm Alexander from NYC!
 
 ### Front end, smart contract, and blockchain developer
 
