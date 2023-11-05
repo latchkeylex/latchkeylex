@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Projects: </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/latchkeylex/Cloud-SOC)
 - <b>Detection Engineering Projects: </b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/latchkeylex/Cloud-SOC)
+  - [Network Monitoring, Security Testing, and SIEM Implementation](https://github.com/latchkeylex/detectionengineering)
 - <b>Python</b>
   - [Product Sales Analysis Using Pandas, Matplotlib, and Seaborn](https://github.com/latchkeylex/adidas)
 
